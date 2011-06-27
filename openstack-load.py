@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# Code samples for blog post
+# http://mikethetechie.com/post/6975966936/controlling-the-environment-cloud-control-apis
+#
 #Import the Openstack swift (1.3.0) module to access the Rackspace cloudfiles api.
 # Download from https://launchpad.net/swift/
 # Then use setup.py install.

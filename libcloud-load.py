@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# Code samples for blog post
+# http://mikethetechie.com/post/6975966936/controlling-the-environment-cloud-control-apis
+#
 # Note - I couldn't get this to work. For more info, see http://mikethetechie.com/private/6969971577/tumblr_lng0mzd5bg1qf6p57
 import secrets # import user name RACKSPACE_USER and API key RACKSPACE_KEY
 

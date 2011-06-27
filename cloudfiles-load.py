@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 #Import the CloudFiles Python API ensure this is located in your lib directory for Python.
+
+# Code samples for blog post
+# http://mikethetechie.com/post/6975966936/controlling-the-environment-cloud-control-apis
+#
+
 import secrets # import user name RACKSPACE_USER and API key RACKSPACE_KEY
 
 import cloudfiles
