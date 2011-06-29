@@ -3,3 +3,6 @@ To use, you'll need to copy secrets.py.dist as secrets.py and fill in your Racks
 
 openstack-load.py is a command-line driven utility that loads files to Rackspace cloud or 
 potentially other openstack "Swift" (storage) compatible cloud providers.
+Useful for copying all the static files from your website to the Rackspace cloudfiles CDN.
+
+To load files, create a .sh file something like push_to_cdn.sh
