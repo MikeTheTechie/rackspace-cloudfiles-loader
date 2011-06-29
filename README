@@ -1,4 +1,5 @@
 Sample code associated with my block post at http://mikethetechie.com/post/6975966936/controlling-the-environment-cloud-control-apis
 To use, you'll need to copy secrets.py.dist as secrets.py and fill in your Rackspace account and API key.
 
-
+openstack-load.py is a command-line driven utility that loads files to Rackspace cloud or 
+potentially other openstack "Swift" (storage) compatible cloud providers.
